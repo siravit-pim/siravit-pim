@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Consultant
 ----------
 
-Seeking new challenges in data analysis, science and engineering.
+Seeking new challenges in data field.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [siravit.pim@gmail.com](mailto:siravit.pim@gmail.com)
