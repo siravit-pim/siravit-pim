@@ -5,7 +5,7 @@ My name is Siravit Pimaksorn | SAP Consultant | SQL Report Writer
 ----------
 
 I'm looking for new challenges in data field, Data Analyst, Data Scientist or Data Engineer
-
+* 🚀  I'm a fast learner
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [siravit.pim@gmail.com](mailto:siravit.pim@gmail.com)
 
