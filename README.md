@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm TurK
 =========================================================================================================================================
 
-I'm a SAP Consultant | SQL Report Writer
+I'm a SQL Report Writer | Consultant
 ----------
 
-I'm looking for new challenges in data field, Data Analyst, Data Scientist or Data Engineer
+I'm looking for new challenges in data field, analyst, scientist or engineer
 * 🚀  I'm a fast learner
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [siravit.pim@gmail.com](mailto:siravit.pim@gmail.com)
