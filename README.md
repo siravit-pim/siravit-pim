@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a SQL Report Writer | Consultant
 ----------
 
-I seeking new challenges in data field, Data Engineer, ETL Deverloper.
+Seeking new challenges in the data field as a Data Engineer or similar role in ETL development
 * 🚀  I'm a fast learner, Open-minded, Knowledge sharing,
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [siravit.pim@gmail.com](mailto:siravit.pim@gmail.com)
