@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm TurK
 =========================================================================================================================================
 
-I'm a SQL Report Writer | Consultant
+I'm a Data Engineer | SQL Consultant | Report Writer
 ----------
 
-Seeking new challenges in the data field as a Data Engineer or similar role in ETL development
-* 🚀  I'm a fast learner, Open-minded, Knowledge sharing,
+* 🚀  I'm a fast learner, Open-minded, Knowledge sharing
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [siravit.pim@gmail.com](mailto:siravit.pim@gmail.com)
 
