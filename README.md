@@ -6,7 +6,7 @@ I'm a Data Engineer | SQL Consultant | Report Writer
 ----------
 
 
-* 🚀  I'm a fast learner, Open-minded, Knowledge sharing
+* 🚀  I'm a Fast learner, Open-minded, Knowledge sharing
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [siravit.pim@gmail.com](mailto:siravit.pim@gmail.com)
 
