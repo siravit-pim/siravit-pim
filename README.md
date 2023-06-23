@@ -6,7 +6,7 @@ Data Engineer
 ----------
 
 
-* 🚀  I'm a Fast learner, Open-minded, Knowledge sharing
+* 🚀  I'm a Self/Fast learner, Share knowledge, Open-minded
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [siravit.pim@gmail.com](mailto:siravit.pim@gmail.com)
 
