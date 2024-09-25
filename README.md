@@ -7,7 +7,7 @@ Data Engineer ( still looking for the new challenge opportunity )
 
 
 * 🚀  I'm a Self/Fast learner, Share knowledge, Open-minded
-* 🌍  I'm based in Bangkok, Thailand
+* 🌍  I'm based in KhonKaen/ Bangkok, Thailand
 * ✉️  You can contact me at [siravit.pim@gmail.com](mailto:siravit.pim@gmail.com)
 
 ### Skills
